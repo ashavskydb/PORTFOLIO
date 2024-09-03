@@ -1,9 +1,8 @@
 import React from 'react';
-import './Projects.css';
 
 function Projects() {
   return (
-    <section className="projects">
+    <div className="projects">
       <h2>Projects</h2>
       <div className="project">
         <h3>BookyfyMe - Travel Planner App</h3>
@@ -20,7 +19,7 @@ function Projects() {
         <p>Consolidates cash, credit and debit cards, investments, and cryptocurrency. Offered the ability to convert and view balances in your preferred currency. Provided a complete view of your finances for easy management and expense optimization.</p>
         <p><strong>Key Technologies: </strong> Node.js, CSS, PostgreSQL</p>
       </div>
-    </section>
+    </div>
   );
 }
 

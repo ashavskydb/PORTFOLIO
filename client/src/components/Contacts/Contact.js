@@ -1,5 +1,4 @@
 import React from 'react';
-import './Contact.css';
 
 function Contact() {
   return (
@@ -19,8 +18,6 @@ function Contact() {
       </form>
       <p>Email: <a href="mailto:ashavsky_db@yahoo.es">ashavsky_db@yahoo.es</a></p>
       <p>Phone: +972-58-798-6366</p>
-      <p>Telegram: <a href="https://t.me/ashavsky_db">@ashavsky_db</a></p>
-      <p>Instagram: <a href="https://www.instagram.com/ashavsky_db/" target="_blank" rel="noopener noreferrer">ashavsky_db</a></p>
       <p>Facebook: <a href="https://www.facebook.com/ashavskiydb/" target="_blank" rel="noopener noreferrer">Dmitry Ashavskiy</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/ashavsky-db/" target="_blank" rel="noopener noreferrer">ashavsky-db</a></p>
       <p>GitHub: <a href="https://github.com/ashavskydb" target="_blank" rel="noopener noreferrer">ashavskydb</a></p>
